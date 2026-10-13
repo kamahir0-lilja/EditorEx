@@ -1,0 +1,23 @@
+{
+  "name": "com.kamahir0.editor-ex",
+  "displayName": "Lilja EditorEx",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "Editor productivity extensions including custom project window hierarchy for Unity.",
+  "keywords": [
+    "lilja"
+  ],
+  "author": {
+    "name": "kamahir0",
+    "url": "https://github.com/kamahir0"
+  },
+  "documentationUrl": "https://github.com/kamahir0/Lilja/blob/main/lilja-packages/lilja.editor-ex/README.md",
+  "changelogUrl": "https://github.com/kamahir0/Lilja/blob/main/lilja-packages/lilja.editor-ex/CHANGELOG.md",
+  "licensesUrl": "https://github.com/kamahir0/Lilja/blob/main/LICENSE",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamahir0/EditorEx.git",
+    "directory": "Packages/com.kamahir0.editor-ex"
+  }
+}
