@@ -14,7 +14,7 @@ Editor productivity extensions including custom project window hierarchy for Uni
 Unity Editorの **Package Manager > [+] > Add package from git URL...** に以下を入力します：
 
 ```text
-https://github.com/kamahir0/EditorEx.git?path=/Packages/com.kamahir0.editor-ex
+https://github.com/kamahir0-lilja/EditorEx.git?path=/Packages/com.kamahir0.editor-ex
 ```
 
 特定のバージョンを指定する場合は、末尾にタグを付加してください（例: `#vcom.kamahir0.editor-ex`）。
@@ -26,7 +26,7 @@ https://github.com/kamahir0/EditorEx.git?path=/Packages/com.kamahir0.editor-ex
 ```json
 {
   "dependencies": {
-    "com.kamahir0.editor-ex": "https://github.com/kamahir0/EditorEx.git?path=/Packages/com.kamahir0.editor-ex"
+    "com.kamahir0.editor-ex": "https://github.com/kamahir0-lilja/EditorEx.git?path=/Packages/com.kamahir0.editor-ex"
   }
 }
 ```
